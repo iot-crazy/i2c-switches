@@ -22,7 +22,9 @@ You will already know:
 
 ### Circuit Diagram
 
-The circuit diagram is available here 
+![Circuit Diagram](https://github.com/iot-crazy/i2c-switches/blob/master/circuitdiagram.png)
+
+The circuit diagram is also available here:
 [https://www.schematics.com/project/i2c-switch-bank-170038/](https://www.schematics.com/project/i2c-switch-bank-170038/)
 
 ### Installing
